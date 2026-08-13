@@ -47,15 +47,17 @@ Consider things like:
 
 ## 2. What was challenging? 
 
-Identify **2–3 things** that were difficult or did not go as planned.
+- finding a good template for scheduale.
+- create the appointment in data base.
+- adding the appointment in the same time box of schedule.
 
 For each one, briefly explain **why** it was challenging.
 
 ### Your response
 
-*
-*
-*
+* I thought the internt will be full of example but it not
+* becuse patient info I select it from the data base (back end errors)
+* problem with handleAddAppointment becuse I need to map through the schedules and match the wanted schedulr
 
 ---
 
@@ -69,8 +71,8 @@ These should focus on how you worked rather than simply listing features you wou
 
 ### Your response
 
-1.
-2.
+1. I will work harder
+2. 5BD for more answers
 
 ---
 
@@ -82,11 +84,17 @@ Which areas took **more time than you expected**?
 
 Which areas took **less time than you expected**?
 
+
 ### Your response
 
 **More time than expected:**
 
+to find and edit good schedule tamplet
+
+
 **Less time than expected:**
+
+to match the time button with the appointment palce
 
 ---
 
@@ -109,6 +117,7 @@ Describe **one technical thing** you understand better now than you did before s
 This could be a React concept, API concept, Git workflow, authentication, debugging technique, CSS technique, library, or anything else you encountered while building your project.
 
 ### Your response
+React need more time to work than you think
 
 ---
 
@@ -117,6 +126,8 @@ This could be a React concept, API concept, Git workflow, authentication, debugg
 What is **one skill or habit** you would like to improve before your next project?
 
 ### Your response
+- to give the appointment full crud
+- put modal and search bar for patient 
 
 ---
 
@@ -130,7 +141,7 @@ For example:
 
 > I will break my MVP into smaller tasks before I begin coding.
 
-> I will commit and push my work at least three times each day.
+> I will commit and push my work at least 10 times each day.
 
 > I will test each feature before moving on to the next one.
 
